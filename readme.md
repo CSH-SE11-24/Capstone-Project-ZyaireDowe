@@ -1,0 +1,1 @@
+<!-- This is zyaires design, after you click the link to the trivia you will be quized with 3 randomized questions. if the text glows red its incorrect if it glows green its correct. submit when done -->

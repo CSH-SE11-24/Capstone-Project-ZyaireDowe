@@ -1,0 +1,25 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+h1{
+  text-align: center;
+}
+h5{
+  text-align: center;
+}
+
+body{
+background-color: skyblue;
+}
+/* i changed my background color */
+p{
+  text-align: center;
+ font-family: "Poetsen One", sans-serif !important;
+  /* i change dthe font to poetsen one */
+}
+{
+  text-align: center;
+ !important;
+
+}
